@@ -12,7 +12,8 @@
     </properties>
     <modules>
         <module>jsp-servlet-hibernate-mysql</module>
-    </modules>
+    <module>todo-jsp-servlet-jdbc</module>
+  </modules>
 
     <dependencies>
         <dependency>
